@@ -1,0 +1,2 @@
+# MyBotOkimo
+My discordbot.py
